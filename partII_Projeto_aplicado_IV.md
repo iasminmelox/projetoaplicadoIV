@@ -1,4 +1,10 @@
+
+# PROJETO APLICADO IV - Ciência de Dados EaD - 2026/01
+
 # SÉRIE TEMPORAL: Dados climáticos, o caso da cidade de Delhi.
+
+# Integrantes do Grupo
+###### Iasmin Melo, 10414568. 
 
 # Introdução
 
